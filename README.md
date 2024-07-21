@@ -1,5 +1,6 @@
-# [Preview] Sample Chat App with AOAI
+# AIPROJECTPAL
 
+[![AIPROJECTPAL DEMO](https://img.youtube.com/vi/exej0wZeEEs/0.png)](https://www.youtube.com/watch?v=exej0wZeEEs)
 This repo contains sample code for a simple chat webapp that integrates with Azure OpenAI. Note: some portions of the app use preview APIs.
 
 ## Prerequisites
