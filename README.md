@@ -1,6 +1,9 @@
 # AIPROJECTPAL
 
-[![AIPROJECTPAL DEMO](https://img.youtube.com/vi/exej0wZeEEs/0.png)](https://www.youtube.com/watch?v=exej0wZeEEs)
+[![AIPROJECTPAL DEMO](https://img.youtube.com/vi/exej0wZeEEs/0.jpg)](https://www.youtube.com/watch?v=exej0wZeEEs)
+
+[![Visit AI Project Pal](https://img.shields.io/badge/Visit%20AI%20Project%20Pal-%230078D7.svg?style=for-the-badge&logo=appveyor)](https://aiprojectpal.azurewebsites.net/)
+
 This repo contains sample code for a simple chat webapp that integrates with Azure OpenAI. Note: some portions of the app use preview APIs.
 
 ## Prerequisites
